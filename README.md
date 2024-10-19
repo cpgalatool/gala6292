@@ -8,7 +8,7 @@
 
 5. git clone https://github.com/cpgalatool/gala6292.git
 
-6. cd gala6292
+6. cd cpgalatool
 
 7. git pull
 
