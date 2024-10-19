@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+            print(Colorate.Horizontal(Colors.rainbow, #!/usr/bin/python
+
 import random
 import requests
 from time import sleep
